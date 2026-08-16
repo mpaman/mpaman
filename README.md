@@ -46,9 +46,9 @@
 ### 💬 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/sitthichok-choeingulueam-1075253722" target="_blank">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/sitthichok-choeingulueam-107525372/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
   <a href="mailto:namusthai12345@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
