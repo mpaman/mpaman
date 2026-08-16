@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mpaman&show_icons=true&theme=tokyonight" alt="mpaman's GitHub stats"/>
@@ -38,9 +38,10 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaman&layout=compact&theme=tokyonight" alt="Top Languages used by mpaman"/>
-</p>
+</p> 
 
 ---
+-->
 
 ### 💬 Let's Connect
 
