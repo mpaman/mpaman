@@ -26,9 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
+<!-----
 
-<!-- ### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mpaman&show_icons=true&theme=tokyonight" alt="mpaman's GitHub stats"/>
@@ -46,8 +46,8 @@
 ### 💬 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/mpaman-choeingulueam-107525372" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/sitthichok-choeingulueam-107525372/)" />
+  <a href="https://linkedin.com/in/sitthichok-choeingulueam-1075253722" target="_blank">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:namusthai12345@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
